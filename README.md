@@ -1,5 +1,8 @@
 <h1> Hi, I'm Andrew! </h1>
 
+I'm a recent Baylor University graduate with a Bachelor's degree in Management Information Systems.
+- *Open to Work!*
+
 <h2> 👨‍💻 My  Projects </h2>
 
 - <b> Python </b>
@@ -14,7 +17,7 @@
 - CompTIA A+ (In Progress)
 - ComPTIA Security+ (Coming Soon)
 
-<h2> 🤳 Connect with me </h2>
+<h2> 🤳 Connect with Me </h2>
 
 [<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="JoshMadakor | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
