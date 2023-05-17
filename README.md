@@ -1,16 +1,23 @@
-### Hi there 👋
+<h1> Hi, I'm Andrew! </h1>
 
-<!--
-**aslatt13/aslatt13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2> 👨‍💻 My  Projects </h2>
 
-Here are some ideas to get you started:
+- <b> Python </b>
+  - [Adidas Auto Checkout with Webdriver](https://github.com/aslatt13/Adidas-Autocheckout)
+  - [Feed Social Media Site with Django](https://github.com/aslatt13/Django_Feed)
+  - [Pizza Store with Django](https://github.com/aslatt13/Pizzeria)
+  - [Object Oriented Programming Practice](https://github.com/aslatt13/Adidas-Autocheckout)
+  - [Web Scraping Practice](https://github.com/aslatt13/webscraping)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h2> 📄 My Certifications </h2>
+
+- CompTIA A+ (In Progress)
+- ComPTIA Security+ (Coming Soon)
+
+<h2> 🤳 Connect with me </h2>
+
+[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="JoshMadakor | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+
+[linkedin]: https://linkedin.com/in/andrewcslattery/
+[instagram]: https://www.instagram.com/andrewslattery_/
