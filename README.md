@@ -9,7 +9,7 @@ I'm a recent Baylor University graduate with a Bachelor's degree in Management I
   - [Adidas Auto Checkout with Webdriver](https://github.com/aslatt13/Adidas-Autocheckout)
   - [Feed Social Media Site with Django](https://github.com/aslatt13/Django_Feed)
   - [Pizza Store with Django](https://github.com/aslatt13/Pizzeria)
-  - [Object Oriented Programming Practice](https://github.com/aslatt13/Adidas-Autocheckout)
+  - [Object Oriented Programming Practice](https://github.com/aslatt13/OOP)
   - [Web Scraping Practice](https://github.com/aslatt13/webscraping)
 
 <h2> 📄 My Certifications </h2>
