@@ -1,6 +1,6 @@
 <h1> Hi, I'm Andrew! </h1>
 
-I'm a recent Baylor University graduate with a Bachelor's degree in Management Information Systems.
+I'm a recent Baylor University graduate with a Bachelor's degree in Management Information Systems and skills in business analysis, information technology, and database systems.
 - *Open to Work!*
 
 <h2> 👨‍💻 My  Projects </h2>
