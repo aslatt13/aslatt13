@@ -13,7 +13,7 @@ I'm a recent Baylor University graduate with a Bachelor's degree in Management I
 
 <h2> 📄 My Certifications </h2>
 
-- ComPTIA Security+ (In Progress)
+- CompTIA Security+ (In Progress)
 
 <h2> 🤳 Connect with Me </h2>
 
