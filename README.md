@@ -1,7 +1,6 @@
 <h1> Hi, I'm Andrew! </h1>
 
 I'm a recent Baylor University graduate with a Bachelor's degree in Management Information Systems and skills in business analysis, information technology, and database systems.
-- *Open to Work!*
 
 <h2> 👨‍💻 My  Projects </h2>
 
@@ -9,13 +8,12 @@ I'm a recent Baylor University graduate with a Bachelor's degree in Management I
   - [Adidas Auto Checkout with Webdriver](https://github.com/aslatt13/Adidas-Autocheckout)
   - [Feed Social Media Site with Django](https://github.com/aslatt13/Django_Feed)
   - [Pizza Store with Django](https://github.com/aslatt13/Pizzeria)
-  - [Object Oriented Programming Practice](https://github.com/aslatt13/OOP)
-  - [Web Scraping Practice](https://github.com/aslatt13/webscraping)
+  - [Object Oriented Programming](https://github.com/aslatt13/OOP)
+  - [Web Scraping](https://github.com/aslatt13/webscraping)
 
 <h2> 📄 My Certifications </h2>
 
-- CompTIA A+ (In Progress)
-- ComPTIA Security+ (Coming Soon)
+- ComPTIA Security+ (In Progress)
 
 <h2> 🤳 Connect with Me </h2>
 
